@@ -11,3 +11,4 @@ sysuse auto
 gen espensive = (price > 6000)
 
 *RA: Calculate the mpg per weight ratio for all cars
+gen fuel_weigh = mpg / weight
