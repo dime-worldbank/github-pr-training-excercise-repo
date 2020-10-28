@@ -7,6 +7,6 @@
 * Open data
 sysuse auto
 
-*RA: Create a dummy for cars with a price over $6K
+*Generating a dummy for expensive cars (i.e. price over $6K)
 
-*RA: Calculate the mpg per weight retio for all cars
+*RA: Calculate the mpg per weight ratio for all cars
